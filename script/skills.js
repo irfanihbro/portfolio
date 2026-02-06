@@ -196,7 +196,7 @@ export function skillFunctionality() {
     { icon: "images/icons/kali.png", name: "Kali Linux", type: "tool" },
     { icon: "images/icons/arch.png", name: "Arch Linux", type: "tool" },
     { icon: "images/icons/Termux.png", name: "Termux", type: "tool" },
-    { icon: "images/icons/Acode.png", name: "Acode", type: "tool" },
+    { icon: "images/icons/acode.png", name: "Acode", type: "tool" },
     { icon: "images/icons/apache.png", name: "Apache", type: "tool" },
     { icon: "images/icons/nginx.png", name: "Nginx", type: "tool" },
     { icon: "images/icons/laragon.png", name: "Laragon", type: "tool" },
