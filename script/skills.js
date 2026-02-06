@@ -200,7 +200,6 @@ export function skillFunctionality() {
     { icon: "images/icons/apache.png", name: "Apache", type: "tool" },
     { icon: "images/icons/nginx.png", name: "Nginx", type: "tool" },
     { icon: "images/icons/laragon.png", name: "Laragon", type: "tool" },
-    { icon: "images/icons/xampp.png", name: "XAMPP", type: "tool" },
 
     {
       icon: "images/icons/Git.png",
