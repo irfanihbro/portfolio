@@ -62,18 +62,6 @@ export function skillFunctionality() {
     },
 
     {
-      icon: "images/icons/nextjs.png",
-      name: "Next.js",
-      type: "tech-stack",
-    },
-
-    {
-      icon: "images/icons/solidjs.png",
-      name: "Solid.js",
-      type: "tech-stack",
-    },
-
-    {
       icon: "images/icons/Cpp.png",
       name: "C++",
       type: "tech-stack",
@@ -92,6 +80,12 @@ export function skillFunctionality() {
     },
 
     {
+      icon: "images/icons/nextjs.png",
+      name: "Next.js",
+      type: "tech-stack",
+    },
+
+    {
       icon: "images/icons/React.png",
       name: "React",
       type: "tech-stack",
@@ -100,6 +94,12 @@ export function skillFunctionality() {
     {
       icon: "images/icons/vuejs.png",
       name: "Vue.js",
+      type: "tech-stack",
+    },
+
+    {
+      icon: "images/icons/solidjs.png",
+      name: "Solid.js",
       type: "tech-stack",
     },
 
@@ -146,6 +146,12 @@ export function skillFunctionality() {
     },
 
     {
+      icon: "images/icons/postgresql.png",
+      name: "PostgreSQL",
+      type: "tech-stack",
+    },
+
+    {
       icon: "images/icons/django.png",
       name: "Django",
       type: "tech-stack",
@@ -165,7 +171,13 @@ export function skillFunctionality() {
 
     {
       icon: "images/icons/fastapi.png",
-      name: "FASTAPI",
+      name: "FastAPI",
+      type: "tech-stack",
+    },
+
+    {
+      icon: "images/icons/vercel.png",
+      name: "Vercel",
       type: "tech-stack",
     },
 
@@ -175,6 +187,7 @@ export function skillFunctionality() {
     { icon: "images/icons/openwrt.png", name: "OpenWrt", type: "tool" },
     { icon: "images/icons/powershell.png", name: "PowerShell", type: "tool" },
     { icon: "images/icons/proxmox.png", name: "Proxmox", type: "tool" },
+    { icon: "images/icons/vsc.png", name: "Visual Studio Code", type: "tool" },
     { icon: "images/icons/gentoo.png", name: "Gentoo", type: "tool" },
     { icon: "images/icons/virtualbox.png", name: "VirtualBox", type: "tool" },
     { icon: "images/icons/debian.png", name: "Debian", type: "tool" },
@@ -186,18 +199,23 @@ export function skillFunctionality() {
     { icon: "images/icons/Acode.png", name: "Acode", type: "tool" },
 
     {
-      icon: "images/icons/vsc.png",
-      name: "VS CODE",
+      icon: "images/icons/apache.png",
+      name: "Apache HTTP Server",
       type: "tool",
     },
+    { icon: "images/icons/nginx.png", name: "Nginx", type: "tool" },
+    { icon: "images/icons/laragon.png", name: "Laragon", type: "tool" },
+    { icon: "images/icons/xampp.png", name: "XAMPP", type: "tool" },
+
     {
       icon: "images/icons/Git.png",
       name: "GIT",
       type: "tool",
     },
+
     {
       icon: "images/icons/github.png",
-      name: "GITHUB",
+      name: "GitHub",
       type: "tool",
     },
   ];
