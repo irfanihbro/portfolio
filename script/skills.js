@@ -98,12 +98,6 @@ export function skillFunctionality() {
     },
 
     {
-      icon: "images/icons/solidjs.png",
-      name: "Solid.js",
-      type: "tech-stack",
-    },
-
-    {
       icon: "images/icons/nodejs.png",
       name: "Node.js",
       type: "tech-stack",
@@ -130,6 +124,12 @@ export function skillFunctionality() {
     {
       icon: "images/icons/webpack.png",
       name: "Webpack",
+      type: "tech-stack",
+    },
+
+    {
+      icon: "images/icons/solidjs.png",
+      name: "Solid.js",
       type: "tech-stack",
     },
 
