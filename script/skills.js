@@ -187,7 +187,7 @@ export function skillFunctionality() {
     { icon: "images/icons/openwrt.png", name: "OpenWrt", type: "tool" },
     { icon: "images/icons/powershell.png", name: "PowerShell", type: "tool" },
     { icon: "images/icons/proxmox.png", name: "Proxmox", type: "tool" },
-    { icon: "images/icons/vsc.png", name: "Visual Studio Code", type: "tool" },
+    { icon: "images/icons/vsc.png", name: "VS Code", type: "tool" },
     { icon: "images/icons/gentoo.png", name: "Gentoo", type: "tool" },
     { icon: "images/icons/virtualbox.png", name: "VirtualBox", type: "tool" },
     { icon: "images/icons/debian.png", name: "Debian", type: "tool" },
@@ -197,12 +197,7 @@ export function skillFunctionality() {
     { icon: "images/icons/arch.png", name: "Arch Linux", type: "tool" },
     { icon: "images/icons/Termux.png", name: "Termux", type: "tool" },
     { icon: "images/icons/Acode.png", name: "Acode", type: "tool" },
-
-    {
-      icon: "images/icons/apache.png",
-      name: "Apache HTTP Server",
-      type: "tool",
-    },
+    { icon: "images/icons/apache.png", name: "Apache", type: "tool" },
     { icon: "images/icons/nginx.png", name: "Nginx", type: "tool" },
     { icon: "images/icons/laragon.png", name: "Laragon", type: "tool" },
     { icon: "images/icons/xampp.png", name: "XAMPP", type: "tool" },
